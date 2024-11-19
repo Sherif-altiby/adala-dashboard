@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary1: #1A3834;
+    --primary2: #EEF7F6;
+    --bg-section:  #F5F5F5;
+    --gray: #9C9DA3;
+}
+
+@font-face {
+    font-family: 'bahij';
+    src: url('../fonts/alfont_com_AlFont_com_Bahij_TheSansArabic-Plain.ttf');
+}
+
+body{
+    font-family: "bahij";
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
